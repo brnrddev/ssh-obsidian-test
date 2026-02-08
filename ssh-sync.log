@@ -1,0 +1,4 @@
+2026-02-08T21:09:15.448Z [INFO] Starting sync engine
+2026-02-08T21:09:15.450Z [INFO] Starting file watcher {"patterns":["/home/star/Documentos/study/**/*.md","/home/star/Documentos/study/**/*.canvas"]}
+2026-02-08T21:09:15.455Z [INFO] SSH Sync plugin loaded
+2026-02-08T21:09:15.529Z [INFO] File watcher ready

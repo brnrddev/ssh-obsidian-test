@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-ssh-sync",
+    "name": "SSH Sync",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "Bidirectional SSH/rsync synchronization for Obsidian vaults. Sync your vault securely between machines on your local network.",
+    "author": "Your Name",
+    "authorUrl": "https://github.com/yourusername",
+    "fundingUrl": "",
+    "isDesktopOnly": true
+}
